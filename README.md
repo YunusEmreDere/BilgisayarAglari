@@ -1,4 +1,5 @@
 # BilgisayarAglariProjesi
+Cisco Packet Tracer uygulamasının 8.2.1.0118 sürümü ile yapılmıştır.
 Proje readme dosyasında bulunan yapıya ve kurallara sahiptir.
 Senaryo:
 Bir e-ticaret firması kuruluyor. Firmanın:
