@@ -65,7 +65,7 @@ Ankara ve Bursa depoları:
 İzmir ve Gaziantep satış ofisleri:
 •	-İzmir satış ofisi, İzmir_Satis.html dosyasını barındıracak bir HTTP sunucusuna (İzmir_Satis_Server) sahiptir.
 •	-Gaziantep satış ofisi, Gaziantep_Satis.html dosyasını barındıracak bir HTTP sunucusuna (Gaziantep_Satis_Server) sahiptir.
-NOT: HTML dosyaları proje duyuru sayfasında bulunmaktadır.
+
 
 4-) Erişim Kuralları:
 Merkez Ofis Erişim Kuralları:
